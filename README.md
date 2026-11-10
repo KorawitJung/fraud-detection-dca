@@ -1,5 +1,10 @@
 # When Do Scammers Move Money, and How Much Can a Bank Stop?
 
+> [!WARNING]
+> **For learning only.** This is a personal study and portfolio project. It is not used commercially and is not intended to harm any person or organisation. It analyses a public simulated dataset that contains no real customers or transactions, and it does not describe how to commit fraud. The datasets belong to their original creators under their own licences.
+>
+> **เพื่อการศึกษาเท่านั้น** โปรเจกต์นี้จัดทำเพื่อการศึกษาและเป็นผลงานส่วนตัว ไม่ได้ใช้ในเชิงพาณิชย์ และไม่มีเจตนาทำให้บุคคลหรือองค์กรใดเสียหาย โปรเจกต์นี้วิเคราะห์ชุดข้อมูลจำลองสาธารณะที่ไม่มีลูกค้าหรือธุรกรรมจริง และไม่ได้อธิบายวิธีการฉ้อโกง ชุดข้อมูลเป็นของผู้จัดทำต้นทางและอยู่ภายใต้สัญญาอนุญาตของต้นทาง
+
 Data collection, cleaning and analysis of simulated mobile-money transactions (PaySim), in Python.
 The fraud in the data follows the mule-account pattern: money is transferred to a receiving account, then cashed out.
 
