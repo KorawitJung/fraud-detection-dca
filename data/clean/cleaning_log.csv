@@ -1,0 +1,7 @@
+step,rows,fraud_rows
+raw,6362620,8213
+drop exact duplicate rows,6362620,8213
+drop rows missing key fields,6362620,8213
+drop negative amounts,6362620,8213
+"keep types with fraud: CASH_OUT, TRANSFER",2770409,8213
+final (train = step <= 354),2770409,8213

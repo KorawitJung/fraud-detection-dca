@@ -1,0 +1,6 @@
+name,role,url,licence_note
+PaySim (Kaggle: ealaxi/paysim1),primary dataset,https://www.kaggle.com/datasets/ealaxi/paysim1,Check the licence on the dataset page before publishing; cite Lopez-Rojas et al. 2016
+IEEE-CIS Fraud Detection,optional extension,https://www.kaggle.com/c/ieee-fraud-detection,Competition rules apply; data may not be redistributed
+Credit Card Fraud Detection (mlg-ulb),optional extension,https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud,Check the licence on the dataset page
+Bank of Thailand statistics,Thai context,https://www.bot.or.th/th/statistics.html,Landing page; fraud series not yet located
+Open Government Data of Thailand,Thai context,https://data.go.th,Landing page; fraud datasets not yet located
